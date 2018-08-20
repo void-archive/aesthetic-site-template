@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Fira+Mono');
+
+#title, #socials {
+    font-family: 'Fira Mono', monospace;
+}
+
+a {
+    color: #000000;
+}
+
+a:hover {
+    color: #a8a8a8;
+}
